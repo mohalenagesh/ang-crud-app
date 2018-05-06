@@ -1,0 +1,24 @@
+{
+  "name": "testapp",
+  "version": "1.1.1",
+  "description": "this is the test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "install": "^0.10.4",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.3",
+    "npm": "^5.6.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.7.3"
+  }
+}
