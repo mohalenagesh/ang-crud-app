@@ -16,7 +16,7 @@
     "method-override": "^2.3.10",
     "mysql": "^2.15.0",
     "nodemon": "^1.17.3",
-    "npm": "^5.6.0"
+    "npm": "^6.14.6"
   },
   "devDependencies": {
     "@angular/cli": "^1.7.3"
